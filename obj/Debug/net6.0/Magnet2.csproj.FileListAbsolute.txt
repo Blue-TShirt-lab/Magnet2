@@ -1,0 +1,45 @@
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.csproj.AssemblyReference.cache
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.GeneratedMSBuildEditorConfig.editorconfig
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.AssemblyInfoInputs.cache
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.AssemblyInfo.cs
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.csproj.CoreCompileInputs.cache
+D:/disk/documents/Magnet/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.exe
+D:/disk/documents/Magnet/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.deps.json
+D:/disk/documents/Magnet/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.runtimeconfig.json
+D:/disk/documents/Magnet/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.dll
+D:/disk/documents/Magnet/Magnet2/Magnet2/bin/Debug/net6.0/ref/Magnet2.dll
+D:/disk/documents/Magnet/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.pdb
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.dll
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/ref/Magnet2.dll
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.pdb
+D:/disk/documents/Magnet/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.genruntimeconfig.cache
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.exe
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.deps.json
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.runtimeconfig.json
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.dll
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/bin/Debug/net6.0/ref/Magnet2.dll
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/bin/Debug/net6.0/Magnet2.pdb
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.csproj.AssemblyReference.cache
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.GeneratedMSBuildEditorConfig.editorconfig
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.AssemblyInfoInputs.cache
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.AssemblyInfo.cs
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.csproj.CoreCompileInputs.cache
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.dll
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/ref/Magnet2.dll
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.pdb
+Z:/_Scratch  Группа 1/Naumov Kirill/Magnet2/Magnet2/obj/Debug/net6.0/Magnet2.genruntimeconfig.cache
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/bin/Debug/net6.0/Magnet2
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/bin/Debug/net6.0/Magnet2.deps.json
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/bin/Debug/net6.0/Magnet2.runtimeconfig.json
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/bin/Debug/net6.0/Magnet2.dll
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/bin/Debug/net6.0/Magnet2.pdb
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.csproj.AssemblyReference.cache
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.AssemblyInfoInputs.cache
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.AssemblyInfo.cs
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.csproj.CoreCompileInputs.cache
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.dll
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/refint/Magnet2.dll
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.pdb
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/Magnet2.genruntimeconfig.cache
+/home/kirill/disk/documents/Magnet/Magnet2/1/Magnet2/obj/Debug/net6.0/ref/Magnet2.dll
