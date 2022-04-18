@@ -1,0 +1,5 @@
+import Space - Importing the "Space" game library.
+menu(true/flase) - Enable menu or not.
+menu.ScoreCounter(true/false) - Enable score counter or not.
+menu.Go(true/false) - Enabling "Go" option or not.
+menu.Exit(true/false) - Enabling "Exit" option or not.
